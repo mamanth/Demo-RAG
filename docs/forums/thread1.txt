@@ -1,0 +1,8 @@
+[Thread] How accurate is the wearable integration?
+User1: I connected my Fitbit but it shows fewer steps than in the Fitbit app.
+User2: Same issue here. Seems like ScriptChain only syncs data every 6 hours.
+Moderator: Thanks for reporting. This is a known limitation — frequent syncing is in the upcoming update.
+
+[Thread] Trouble with login
+User3: I forgot my password and reset it, but the link expired in 10 minutes.
+Moderator: Reset links are valid for 15 minutes. Please retry and ensure your system clock is correct.
